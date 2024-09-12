@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/micromouse/pw.jpg
 title: "React Portfolio"
 date: Feb 2024
 published: true
