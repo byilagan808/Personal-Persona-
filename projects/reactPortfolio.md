@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/pw.jpg
+image: img/reactPortfolio/pw.jpg
 title: "React Portfolio"
 date: Feb 2024
 published: true
